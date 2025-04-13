@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block head %}
+    <h1 class="light-text">Welcome to Moodify!!</h1>
+{% endblock %} 
+
+{% block body %}
+
+   
+   <header class="main-header">
+    <div class="header-container">
+ <img src="images/sunglasses-for-dogs2.png" alt="Chill Pug with sunglasses" class="header-image2"/>
+   
+    <img src="images/sunglasses-for-dogs.png" alt="Chill Pug with sunglasses" class="header-image"/>
+    </div>
+   </header>
+   
+
+   <p class="textContainer">Select a song that you are really vibing with right now.<br>
+   We will tell you the mood of your song and give you recomendations for other<br> songs
+   to match the mood!
+   </p>
+   <div class="search-section">
+       <h2 class="boxContainer">Spotify Song Search</h2>
+       <form class="search-bar" action="/recommend" method="POST">
+        <input type="text" id="spotifyInput" name="song" placeholder="Paste a Spotify Link here">
+        <button type="submit" id= submit_button>Search</button>
+        </form>
+    </div>
+   
+{% endblock %} 
