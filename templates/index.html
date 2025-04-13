@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block head %}
+    <h1 class="light-text">Welcome to Moodify!!</h1>
+{% endblock %} 
+
+{% block body %}
+
+   
+   <header class="main-header">
+    <div class="header-container">
+ <img src="sunglasses-for-dogs2.png" alt="Chill Pug with sunglasses" class="header-image2"/>
+   
+    <img src="sunglasses-for-dogs.png" alt="Chill Pug with sunglasses" class="header-image"/>
+    </div>
+   </header>
+   
+
+   <p class="textContainer">Select a song that you are really vibing with right now.<br>
+   We will tell you the mood of your song and give you recomendations for other<br> songs
+   to match the mood!
+   </p>
+   <div class="search-section">
+       <h2 class="boxContainer">Spotify Song Search</h2>
+       <form class="search-bar" action="/recommend" method="POST">
+        <input type="text" id="spotifyInput" name="song" placeholder="Paste a Spotify Link here">
+        <button type="submit" id= submit_button>Search</button>
+        </form>
+    </div>
+      <div class="slide-container">
+    <img src="abbeyRoad.jpg" alt="Sliding image" class="sliding-image">
+    <img src="FMacRumours.png" alt="Sliding image" class="sliding-image" style="transform: translate(150%,25%);">
+    <img src="Radioheadokcomputer.png" alt="Sliding image" class="sliding-image" style="transform: translate(300%,25%);">
+    <img src="download.jpg" alt="Sliding image" class="sliding-image" style="transform: translate(450%,25%);">
+    <img src="ab67616d0000b273dbb3dd82da45b7d7f31b1b42.jpg" alt="Sliding image" class="sliding-image" style="transform: translate(600%,25%);">
+    <img src="Beastie_Boys_-_Licensed_to_Ill.png" alt="Sliding image" class="sliding-image" style="transform: translate(750%,25%);">
+    <img src="Taylor_Swift_-_1989_(Taylor's_Version).png" alt="Sliding image" class="sliding-image" style="transform: translate(900%,25%);">
+    <img src="Maroon_5_-_Songs_About_Jane.png" alt="Sliding image" class="sliding-image" style="transform: translate(1050%,25%);">
+    <img src="Kanyewest_collegedropout.jpg" alt="Sliding image" class="sliding-image" style="transform: translate(1200%,25%);">
+    <img src="zep3.jpg" alt="Sliding image" class="sliding-image" style="transform: translate(1350%,25%);">
+    <img src="Alice_in_Chains_Jar_of_Flies.jpg" alt="Sliding image" class="sliding-image" style="transform: translate(1500%,25%);">
+  </div>
+{% endblock %} 

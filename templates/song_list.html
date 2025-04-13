@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block body %}
+<style>
+    #paintCanvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -1;
+      width: 100vw;
+      height: 100vh;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      height: 100vh;
+    }
+
+
+header {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 2.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 1.75rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transform: translateY(-75%);
+}
+ 
+
+
+  p {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+
+  </style>
+
+   <header class="main-header">
+       <div class="header-container">
+          
+       </div>
+       <header id="mood-header" class="light-text" >Your Mood is?</header>
+       <p id="moodText">(Here are some songs based on your mood)</p>
+          
+           
+          
+           <!-- Canvas where the blending will happen -->
+           <canvas id="paintCanvas"></canvas>
+            
+           <script src="test.js"></script>
+       
+   <ul>
+       {% for song in recommended_songs %}
+           <li>{{ song }}</li>
+       {% endfor %}
+   </ul>
+{% endblock %}

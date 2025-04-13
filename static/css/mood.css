@@ -1,0 +1,128 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+   background-color: #949aa3;
+   padding-top: 10px;
+}
+
+.main-header {
+   text-align: center;
+}
+
+.header-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.header-image {
+   margin-left: 20px;
+   height: 80px;
+   width: 120px;
+   margin-top: 35px;
+}
+
+.header-image2 {
+   margin-right: 20px;
+   height: 80px;
+   width: 120px;
+   margin-top: 35px;
+}
+
+h1 {
+   text-align: center;
+   padding-top: 60px;
+   font-size: 3rem;
+}
+
+.light-text {
+   color: #171d10;
+   text-shadow: 0 0 6px white,
+                0 0 4px #f8e4b5,
+                0 0 6px white;
+}
+
+.boxContainer {
+   text-align: center;
+   padding-top: 65px;
+}
+
+.textContainer {
+   text-align: center;
+   padding-top: 80px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+   font-size: 1.3rem;
+}
+
+.search-section {
+   text-align: center;
+   margin-top: 40px;
+}
+
+.search-section h2 {
+   font-size: 28px;
+   font-weight: bold;
+   margin-bottom: 20px;
+}
+
+.search-bar {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+}
+
+.search-bar input[type="text"] {
+   width: 300px;
+   padding: 10px 16px;
+   font-size: 16px;
+   border: 1px solid #ccc;
+   border-radius: 6px;
+}
+
+.search-bar button {
+   padding: 10px 16px;
+   font-size: 16px;
+   background-color: #04AA6D;
+   color: white;
+   border: none;
+   border-radius: 6px;
+   cursor: pointer;
+}
+
+.search-bar button:hover {
+   background-color: #038e5b;
+}
+
+p {
+   font-size: 1.1rem;
+}
+
+.slide-container {
+   width: 100vw;
+   height: 100px;
+   position: relative;
+}
+
+.sliding-image {
+   position: absolute;
+   left: 0;
+   top: 10%;
+   transform: translateY(25%);
+   height: 150px;
+   animation: slide-across 55s linear infinite;
+}
+
+@keyframes slide-across {
+   0% {
+     left: -2500px;
+   }
+   100% {
+     left: 100vw;
+   }
+}
