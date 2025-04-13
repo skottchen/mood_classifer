@@ -1,0 +1,660 @@
+TRACK_ID	ARTIST_ID	ALBUM_ID	PATH	DURATION	TAGS
+track_1004119	artist_428380	album_118175	19/1004119.mp3	73.9	mood/theme--dark, film
+track_1006548	artist_337741	album_118484	48/1006548.mp3	255.0	mood/theme--soundscape
+track_1006556	artist_337741	album_118484	56/1006556.mp3	282.1	mood/theme--soundscape
+track_1009354	artist_367979	album_118809	54/1009354.mp3	155.4	mood/theme--adventure, sport
+track_1009589	artist_431065	album_118866	89/1009589.mp3	120.8	mood/theme--horror, trailer
+track_1011951	artist_002054	album_119180	51/1011951.mp3	266.7	mood/theme--inspiring, soundscape
+track_1011999	artist_431465	album_119184	99/1011999.mp3	200.5	mood/theme--emotional, epic, film
+track_1012000	artist_431465	album_119184	00/1012000.mp3	147.0	mood/theme--emotional, epic, film
+track_1012001	artist_431465	album_119184	01/1012001.mp3	209.6	mood/theme--emotional, epic, film
+track_1013829	artist_005721	album_119374	29/1013829.mp3	258.0	mood/theme--dream
+track_1016182	artist_004934	album_119662	82/1016182.mp3	294.0	mood/theme--groovy, happy, party
+track_1021752	artist_428971	album_120128	52/1021752.mp3	55.0	mood/theme--children, commercial, funny
+track_1021756	artist_428971	album_120128	56/1021756.mp3	109.5	mood/theme--adventure, commercial
+track_1023279	artist_432273	album_120319	79/1023279.mp3	164.9	mood/theme--documentary
+track_1024427	artist_428971	album_120422	27/1024427.mp3	61.1	mood/theme--christmas, commercial
+track_1024428	artist_428971	album_120422	28/1024428.mp3	164.9	mood/theme--christmas, commercial
+track_1027386	artist_337741	album_120816	86/1027386.mp3	1098.0	mood/theme--soundscape
+track_1027693	artist_432967	album_120851	93/1027693.mp3	431.8	mood/theme--relaxing
+track_1027907	artist_348448	album_120865	07/1027907.mp3	190.9	mood/theme--positive
+track_1027928	artist_005240	album_120873	28/1027928.mp3	366.6	mood/theme--documentary, drama
+track_1029909	artist_423996	album_121099	09/1029909.mp3	2642.7	mood/theme--dark
+track_1031288	artist_360970	album_121341	88/1031288.mp3	226.5	mood/theme--energetic, happy
+track_1032157	artist_421279	album_121460	57/1032157.mp3	172.8	mood/theme--retro
+track_1033908	artist_422519	album_121726	08/1033908.mp3	261.4	mood/theme--emotional
+track_1033911	artist_422519	album_121726	11/1033911.mp3	118.2	mood/theme--emotional
+track_1035764	artist_339169	album_121945	64/1035764.mp3	285.4	mood/theme--love, relaxing
+track_1036085	artist_007211	album_121985	85/1036085.mp3	173.2	mood/theme--action, energetic, motivational
+track_1036143	artist_004625	album_121997	43/1036143.mp3	123.5	mood/theme--action
+track_1036802	artist_434427	album_122056	02/1036802.mp3	261.8	mood/theme--ballad
+track_1039835	artist_346032	album_122513	35/1039835.mp3	237.0	mood/theme--soundscape
+track_1040482	artist_434110	album_122562	82/1040482.mp3	193.9	mood/theme--fun
+track_1040986	artist_366701	album_122620	86/1040986.mp3	212.1	mood/theme--emotional, soft
+track_1041556	artist_427960	album_122702	56/1041556.mp3	233.8	mood/theme--melodic
+track_1042000	artist_434945	album_122750	00/1042000.mp3	70.0	mood/theme--drama, film
+track_1043897	artist_434948	album_122933	97/1043897.mp3	211.2	mood/theme--commercial
+track_1044168	artist_371390	album_122953	68/1044168.mp3	430.0	mood/theme--energetic
+track_1045251	artist_003944	album_123100	51/1045251.mp3	159.9	mood/theme--groovy, happy
+track_1046641	artist_420821	album_123328	41/1046641.mp3	217.4	mood/theme--dream
+track_1047123	artist_339574	album_123409	23/1047123.mp3	281.3	mood/theme--energetic, epic
+track_1048152	artist_429332	album_123521	52/1048152.mp3	168.9	mood/theme--relaxing
+track_1048225	artist_375935	album_123534	25/1048225.mp3	50.1	mood/theme--advertising, children, commercial
+track_1048299	artist_435725	album_123543	99/1048299.mp3	87.0	mood/theme--film
+track_1048305	artist_008094	album_123550	05/1048305.mp3	288.3	mood/theme--emotional, film
+track_1048359	artist_008094	album_123550	59/1048359.mp3	220.3	mood/theme--emotional, film
+track_1048765	artist_008094	album_123579	65/1048765.mp3	224.1	mood/theme--emotional, film
+track_1049553	artist_008094	album_123610	53/1049553.mp3	229.7	mood/theme--emotional, film
+track_1049710	artist_008094	album_123636	10/1049710.mp3	221.4	mood/theme--emotional, film
+track_1049713	artist_008094	album_123636	13/1049713.mp3	248.9	mood/theme--emotional, film
+track_1049833	artist_360424	album_123763	33/1049833.mp3	216.9	mood/theme--energetic
+track_1052151	artist_421686	album_123934	51/1052151.mp3	330.0	mood/theme--uplifting
+track_1052157	artist_421686	album_123934	57/1052157.mp3	191.3	mood/theme--uplifting
+track_1052159	artist_421686	album_123934	59/1052159.mp3	219.2	mood/theme--uplifting
+track_1052310	artist_432545	album_123927	10/1052310.mp3	123.1	mood/theme--advertising, documentary, film
+track_1052320	artist_432545	album_123927	20/1052320.mp3	65.1	mood/theme--advertising, documentary, film
+track_1052368	artist_431036	album_123933	68/1052368.mp3	124.8	mood/theme--background, corporate, relaxing
+track_1052800	artist_368389	album_124010	00/1052800.mp3	137.4	mood/theme--hopeful
+track_1053616	artist_431108	album_124153	16/1053616.mp3	1048.7	mood/theme--meditative
+track_1055935	artist_341393	album_124510	35/1055935.mp3	258.7	mood/theme--emotional, energetic
+track_1056395	artist_375104	album_124594	95/1056395.mp3	52.8	mood/theme--dream
+track_1056398	artist_375104	album_124594	98/1056398.mp3	70.5	mood/theme--dream
+track_1057411	artist_007872	album_124697	11/1057411.mp3	216.9	mood/theme--energetic, upbeat
+track_1057427	artist_436872	album_124707	27/1057427.mp3	156.7	mood/theme--love, melodic
+track_1058330	artist_366613	album_124825	30/1058330.mp3	345.1	mood/theme--action, energetic
+track_1060631	artist_432545	album_125147	31/1060631.mp3	81.0	mood/theme--advertising, documentary, movie
+track_1061377	artist_007063	album_125285	77/1061377.mp3	88.6	mood/theme--commercial
+track_1061439	artist_007063	album_125285	39/1061439.mp3	104.3	mood/theme--sport
+track_1061461	artist_007063	album_125285	61/1061461.mp3	86.1	mood/theme--commercial
+track_1061472	artist_007063	album_125285	72/1061472.mp3	148.0	mood/theme--emotional
+track_1062830	artist_348998	album_125504	30/1062830.mp3	786.1	mood/theme--happy, motivational
+track_1063180	artist_000560	album_125563	80/1063180.mp3	173.2	mood/theme--epic, film
+track_1065645	artist_437812	album_125877	45/1065645.mp3	190.0	mood/theme--adventure, advertising, dark, happy, sport, upbeat
+track_1065646	artist_437812	album_125877	46/1065646.mp3	224.1	mood/theme--advertising, corporate, sport
+track_1066029	artist_349662	album_125961	29/1066029.mp3	146.7	mood/theme--cool
+track_1066054	artist_350284	album_125969	54/1066054.mp3	359.7	mood/theme--epic, trailer
+track_1066197	artist_437998	album_126023	97/1066197.mp3	304.0	mood/theme--film, sad
+track_1067265	artist_438155	album_126186	65/1067265.mp3	185.6	mood/theme--film
+track_1067274	artist_438155	album_126186	74/1067274.mp3	144.5	mood/theme--film
+track_1067298	artist_351337	album_126162	98/1067298.mp3	232.1	mood/theme--emotional, energetic, melodic
+track_1068780	artist_375935	album_126355	80/1068780.mp3	205.0	mood/theme--corporate, motivational
+track_1070632	artist_367887	album_126799	32/1070632.mp3	238.4	mood/theme--christmas
+track_1072129	artist_375104	album_127190	29/1072129.mp3	30.6	mood/theme--background, happy, positive
+track_1072431	artist_339989	album_127400	31/1072431.mp3	217.7	mood/theme--energetic
+track_1072432	artist_339989	album_127400	32/1072432.mp3	277.8	mood/theme--energetic
+track_1072913	artist_354832	album_127466	13/1072913.mp3	350.6	mood/theme--slow
+track_1073213	artist_428449	album_127485	13/1073213.mp3	259.0	mood/theme--advertising, motivational
+track_1073216	artist_428449	album_127485	16/1073216.mp3	387.6	mood/theme--advertising, motivational
+track_1074724	artist_000560	album_127878	24/1074724.mp3	112.4	mood/theme--action, epic
+track_1076449	artist_340553	album_128216	49/1076449.mp3	252.5	mood/theme--retro
+track_1076593	artist_336640	album_128234	93/1076593.mp3	270.0	mood/theme--movie
+track_1077911	artist_430529	album_128382	11/1077911.mp3	263.3	mood/theme--energetic
+track_1077956	artist_005240	album_128384	56/1077956.mp3	233.8	mood/theme--adventure, advertising, documentary, drama, epic, film
+track_1078363	artist_341528	album_128423	63/1078363.mp3	219.7	mood/theme--christmas
+track_1078451	artist_438603	album_128601	51/1078451.mp3	209.6	mood/theme--fun, positive
+track_1078452	artist_438603	album_128601	52/1078452.mp3	228.5	mood/theme--fun, positive
+track_1078480	artist_438603	album_128602	80/1078480.mp3	141.0	mood/theme--love
+track_1079254	artist_368762	album_128531	54/1079254.mp3	253.3	mood/theme--relaxing, trailer
+track_1079384	artist_005240	album_128551	84/1079384.mp3	174.1	mood/theme--children, documentary, drama, emotional, film, mellow, soft
+track_1080375	artist_439286	album_128688	75/1080375.mp3	213.5	mood/theme--ballad, calm, sad
+track_1080999	artist_370789	album_128761	99/1080999.mp3	234.0	mood/theme--happy, love
+track_1081690	artist_352416	album_128864	90/1081690.mp3	222.8	mood/theme--relaxing, romantic
+track_1081706	artist_352416	album_128867	06/1081706.mp3	212.3	mood/theme--relaxing
+track_1083515	artist_352428	album_129055	15/1083515.mp3	148.0	mood/theme--christmas, soft
+track_1084386	artist_361274	album_129170	86/1084386.mp3	161.7	mood/theme--romantic
+track_1084488	artist_337907	album_129186	88/1084488.mp3	218.1	mood/theme--epic
+track_1084911	artist_435725	album_129252	11/1084911.mp3	33.2	mood/theme--film
+track_1084919	artist_339449	album_129255	19/1084919.mp3	210.5	mood/theme--christmas, holiday
+track_1087086	artist_000560	album_129592	86/1087086.mp3	278.1	mood/theme--drama
+track_1087089	artist_000560	album_129592	89/1087089.mp3	219.5	mood/theme--drama
+track_1087099	artist_419438	album_129599	99/1087099.mp3	94.0	mood/theme--happy, inspiring, motivational, positive
+track_1088578	artist_375104	album_129792	78/1088578.mp3	94.7	mood/theme--fun, game, happy
+track_1088597	artist_375104	album_129792	97/1088597.mp3	124.3	mood/theme--fun, game, happy
+track_1089222	artist_341346	album_129852	22/1089222.mp3	498.8	mood/theme--meditative
+track_1089263	artist_432564	album_129854	63/1089263.mp3	69.1	mood/theme--epic
+track_1089299	artist_420796	album_129862	99/1089299.mp3	378.9	mood/theme--meditative, soundscape
+track_1089922	artist_428829	album_129913	22/1089922.mp3	193.9	mood/theme--melodic
+track_1090464	artist_439398	album_129959	64/1090464.mp3	120.6	mood/theme--film, trailer
+track_1090470	artist_439398	album_129959	70/1090470.mp3	120.3	mood/theme--film, trailer
+track_1092252	artist_440506	album_130185	52/1092252.mp3	238.6	mood/theme--positive
+track_1093426	artist_352416	album_130322	26/1093426.mp3	228.2	mood/theme--cool, relaxing, romantic
+track_1093610	artist_378695	album_130347	10/1093610.mp3	241.9	mood/theme--energetic, upbeat
+track_1096127	artist_358348	album_130691	27/1096127.mp3	201.2	mood/theme--dark
+track_1096129	artist_358348	album_130691	29/1096129.mp3	158.7	mood/theme--dark
+track_1096130	artist_358348	album_130691	30/1096130.mp3	312.3	mood/theme--dark
+track_1096873	artist_440452	album_130804	73/1096873.mp3	220.6	mood/theme--energetic, fast
+track_1098161	artist_439286	album_130984	61/1098161.mp3	216.7	mood/theme--energetic, melodic
+track_1098162	artist_439286	album_130984	62/1098162.mp3	192.8	mood/theme--calm, sad
+track_1098504	artist_432966	album_131024	04/1098504.mp3	254.0	mood/theme--relaxing
+track_1100970	artist_437812	album_131369	70/1100970.mp3	127.3	mood/theme--advertising, corporate, documentary, holiday
+track_1101296	artist_366162	album_131416	96/1101296.mp3	138.3	mood/theme--relaxing, romantic, soft
+track_1101379	artist_357317	album_131441	79/1101379.mp3	69.9	mood/theme--retro
+track_1104339	artist_441810	album_131821	39/1104339.mp3	388.8	mood/theme--melodic
+track_1104340	artist_441810	album_131821	40/1104340.mp3	340.0	mood/theme--melodic
+track_1106256	artist_438910	album_132081	56/1106256.mp3	115.2	mood/theme--dream
+track_1106580	artist_345961	album_132144	80/1106580.mp3	124.7	mood/theme--relaxing, romantic
+track_1107272	artist_366613	album_132227	72/1107272.mp3	252.8	mood/theme--epic, film
+track_1107582	artist_361297	album_132266	82/1107582.mp3	167.5	mood/theme--mellow, relaxing
+track_1108005	artist_339449	album_132337	05/1108005.mp3	289.6	mood/theme--dark, love, romantic
+track_1109878	artist_441505	album_132604	78/1109878.mp3	99.1	mood/theme--advertising
+track_1110005	artist_441505	album_132615	05/1110005.mp3	76.9	mood/theme--fun, happy
+track_1110010	artist_441505	album_132615	10/1110010.mp3	153.6	mood/theme--fun, happy
+track_1110027	artist_441505	album_132615	27/1110027.mp3	95.9	mood/theme--fun, happy
+track_1110031	artist_441505	album_132615	31/1110031.mp3	56.9	mood/theme--fun, happy
+track_1110089	artist_441505	album_132646	89/1110089.mp3	116.9	mood/theme--energetic
+track_1110505	artist_441505	album_132664	05/1110505.mp3	98.6	mood/theme--uplifting
+track_1110533	artist_441505	album_132666	33/1110533.mp3	44.0	mood/theme--background, dream
+track_1110747	artist_441505	album_132695	47/1110747.mp3	64.0	mood/theme--fun, happy
+track_1110772	artist_441505	album_132695	72/1110772.mp3	112.5	mood/theme--fun, happy
+track_1110775	artist_441505	album_132695	75/1110775.mp3	96.5	mood/theme--fun, happy
+track_1112333	artist_441505	album_132852	33/1112333.mp3	132.8	mood/theme--emotional, meditative
+track_1113505	artist_363557	album_132973	05/1113505.mp3	268.9	mood/theme--slow
+track_1115612	artist_441505	album_133290	12/1115612.mp3	51.0	mood/theme--melodic
+track_1115614	artist_441505	album_133290	14/1115614.mp3	104.5	mood/theme--melodic
+track_1115619	artist_441505	album_133290	19/1115619.mp3	66.6	mood/theme--melodic
+track_1115644	artist_441505	album_133292	44/1115644.mp3	110.3	mood/theme--fun
+track_1115685	artist_441505	album_133294	85/1115685.mp3	136.7	mood/theme--melodic
+track_1116406	artist_437998	album_133378	06/1116406.mp3	90.0	mood/theme--dream, relaxing, soft
+track_1116936	artist_423996	album_133474	36/1116936.mp3	71.5	mood/theme--dark
+track_1118788	artist_350064	album_133711	88/1118788.mp3	537.2	mood/theme--deep, melodic
+track_1121426	artist_443553	album_134004	26/1121426.mp3	184.4	mood/theme--film, horror
+track_1121432	artist_443553	album_134004	32/1121432.mp3	226.0	mood/theme--film
+track_1121453	artist_443553	album_134004	53/1121453.mp3	172.9	mood/theme--hopeful, positive
+track_1121465	artist_443553	album_134004	65/1121465.mp3	207.3	mood/theme--film, nature
+track_1121891	artist_364446	album_134056	91/1121891.mp3	330.7	mood/theme--dream, sexy
+track_1123491	artist_426563	album_134301	91/1123491.mp3	222.4	mood/theme--meditative, relaxing
+track_1124319	artist_431845	album_134454	19/1124319.mp3	351.9	mood/theme--fast
+track_1125671	artist_375104	album_134670	71/1125671.mp3	98.1	mood/theme--background, energetic
+track_1125844	artist_437812	album_134698	44/1125844.mp3	195.6	mood/theme--advertising, sad
+track_1128045	artist_433123	album_135103	45/1128045.mp3	199.2	mood/theme--relaxing
+track_1128211	artist_007872	album_135128	11/1128211.mp3	297.5	mood/theme--ballad, mellow
+track_1128887	artist_433123	album_135246	87/1128887.mp3	1111.2	mood/theme--meditative, relaxing
+track_1129128	artist_379099	album_135274	28/1129128.mp3	1192.4	mood/theme--dark, soundscape
+track_1132168	artist_370789	album_135768	68/1132168.mp3	251.0	mood/theme--fun
+track_1132936	artist_441157	album_135924	36/1132936.mp3	240.0	mood/theme--powerful
+track_1133301	artist_444458	album_135958	01/1133301.mp3	145.7	mood/theme--love
+track_1133479	artist_444486	album_135991	79/1133479.mp3	193.6	mood/theme--energetic, melodic
+track_1134030	artist_357681	album_136064	30/1134030.mp3	285.9	mood/theme--dream
+track_1134032	artist_357681	album_136064	32/1134032.mp3	398.0	mood/theme--dream
+track_1134764	artist_375935	album_136191	64/1134764.mp3	132.0	mood/theme--advertising, corporate, happy
+track_1134854	artist_448491	album_136219	54/1134854.mp3	687.8	mood/theme--dark
+track_1135079	artist_338444	album_136240	79/1135079.mp3	266.4	mood/theme--deep, space
+track_1135469	artist_006916	album_136308	69/1135469.mp3	338.4	mood/theme--calm
+track_1135792	artist_360369	album_136388	92/1135792.mp3	257.8	mood/theme--deep
+track_1142668	artist_375935	album_136998	68/1142668.mp3	265.0	mood/theme--film, motivational
+track_1144757	artist_375104	album_137254	57/1144757.mp3	120.0	mood/theme--dramatic, epic, inspiring, trailer
+track_1149226	artist_357317	album_137806	26/1149226.mp3	59.1	mood/theme--energetic, retro
+track_1149237	artist_357317	album_137806	37/1149237.mp3	54.9	mood/theme--energetic, retro
+track_1149380	artist_005240	album_137825	80/1149380.mp3	240.0	mood/theme--corporate, documentary
+track_1149618	artist_420821	album_137863	18/1149618.mp3	276.0	mood/theme--melodic
+track_1149878	artist_453308	album_137891	78/1149878.mp3	130.7	mood/theme--ballad, love
+track_1150099	artist_008094	album_137915	99/1150099.mp3	277.8	mood/theme--film, meditative
+track_1150125	artist_008094	album_137916	25/1150125.mp3	297.0	mood/theme--film, meditative
+track_1150141	artist_369180	album_137918	41/1150141.mp3	214.6	mood/theme--emotional, inspiring
+track_1150738	artist_007872	album_138012	38/1150738.mp3	261.2	mood/theme--dark
+track_1151394	artist_432273	album_138116	94/1151394.mp3	177.1	mood/theme--documentary, romantic
+track_1151551	artist_452945	album_138155	51/1151551.mp3	44.5	mood/theme--film
+track_1151557	artist_452945	album_138155	57/1151557.mp3	95.7	mood/theme--children, funny
+track_1155158	artist_432273	album_138584	58/1155158.mp3	220.4	mood/theme--documentary, love, romantic, sad
+track_1155895	artist_437980	album_138692	95/1155895.mp3	157.5	mood/theme--fun
+track_1157352	artist_381661	album_138888	52/1157352.mp3	190.2	mood/theme--energetic, epic
+track_1158966	artist_450929	album_139106	66/1158966.mp3	274.4	mood/theme--fast
+track_1159367	artist_369180	album_139184	67/1159367.mp3	264.4	mood/theme--happy, party
+track_1159540	artist_342461	album_139219	40/1159540.mp3	447.5	mood/theme--dream, uplifting
+track_1159622	artist_455072	album_139241	22/1159622.mp3	247.3	mood/theme--ballad, love, melancholic, romantic
+track_1159659	artist_455072	album_139251	59/1159659.mp3	118.2	mood/theme--energetic
+track_1159696	artist_455072	album_139261	96/1159696.mp3	206.2	mood/theme--ballad
+track_1159739	artist_455072	album_139265	39/1159739.mp3	204.5	mood/theme--energetic
+track_1159860	artist_455091	album_139286	60/1159860.mp3	345.2	mood/theme--dream
+track_1161295	artist_375327	album_139492	95/1161295.mp3	411.5	mood/theme--love
+track_1163315	artist_422656	album_139821	15/1163315.mp3	312.9	mood/theme--romantic
+track_1163779	artist_370988	album_139837	79/1163779.mp3	265.9	mood/theme--retro
+track_1165406	artist_358362	album_140112	06/1165406.mp3	260.6	mood/theme--love, soundscape
+track_1165470	artist_455057	album_140108	70/1165470.mp3	202.1	mood/theme--love, powerful, sad, soft
+track_1165996	artist_437812	album_140240	96/1165996.mp3	156.8	mood/theme--advertising, love, upbeat
+track_1166070	artist_361694	album_140202	70/1166070.mp3	141.7	mood/theme--christmas, holiday
+track_1166090	artist_437980	album_140274	90/1166090.mp3	140.4	mood/theme--children, christmas, fun
+track_1167864	artist_456650	album_140451	64/1167864.mp3	305.5	mood/theme--dramatic, hopeful
+track_1167867	artist_456650	album_140451	67/1167867.mp3	226.3	mood/theme--drama, emotional, inspiring, positive
+track_1167887	artist_456650	album_140453	87/1167887.mp3	277.5	mood/theme--dark, drama, emotional, melancholic
+track_1168003	artist_364441	album_140468	03/1168003.mp3	220.2	mood/theme--epic
+track_1168021	artist_362501	album_140485	21/1168021.mp3	62.1	mood/theme--cool
+track_1168027	artist_362501	album_140485	27/1168027.mp3	100.0	mood/theme--epic, melancholic, sad
+track_1168478	artist_367887	album_140546	78/1168478.mp3	387.1	mood/theme--christmas
+track_1168494	artist_456894	album_140551	94/1168494.mp3	728.5	mood/theme--space
+track_1168875	artist_008360	album_140604	75/1168875.mp3	275.6	mood/theme--love
+track_1169714	artist_338649	album_140751	14/1169714.mp3	334.5	mood/theme--emotional
+track_1169724	artist_338649	album_140751	24/1169724.mp3	133.4	mood/theme--emotional
+track_1169736	artist_338649	album_140751	36/1169736.mp3	225.4	mood/theme--emotional
+track_1170410	artist_455493	album_140848	10/1170410.mp3	120.0	mood/theme--movie
+track_1170739	artist_339048	album_140943	39/1170739.mp3	142.4	mood/theme--christmas
+track_1171239	artist_375104	album_141008	39/1171239.mp3	36.6	mood/theme--christmas, happy, holiday
+track_1171246	artist_375104	album_141008	46/1171246.mp3	35.1	mood/theme--christmas, happy, holiday
+track_1171314	artist_437211	album_141029	14/1171314.mp3	392.6	mood/theme--christmas, happy, relaxing
+track_1173506	artist_455493	album_141331	06/1173506.mp3	116.0	mood/theme--movie
+track_1174089	artist_337741	album_141403	89/1174089.mp3	310.0	mood/theme--soundscape
+track_1174449	artist_352230	album_141451	49/1174449.mp3	268.0	mood/theme--melodic
+track_1177013	artist_456650	album_141690	13/1177013.mp3	207.3	mood/theme--commercial, drama, energetic, film, fun, happy
+track_1179607	artist_458379	album_141980	07/1179607.mp3	220.6	mood/theme--cool
+track_1185082	artist_379099	album_142619	82/1185082.mp3	125.1	mood/theme--dark, soundscape
+track_1185084	artist_379099	album_142619	84/1185084.mp3	703.1	mood/theme--dark, soundscape
+track_1185306	artist_431325	album_142554	06/1185306.mp3	227.2	mood/theme--love
+track_1185449	artist_000087	album_142660	49/1185449.mp3	210.8	mood/theme--background
+track_1188191	artist_429795	album_143109	91/1188191.mp3	263.6	mood/theme--melancholic
+track_1189916	artist_460469	album_143267	16/1189916.mp3	137.5	mood/theme--background, retro
+track_1189937	artist_460469	album_143221	37/1189937.mp3	148.3	mood/theme--background, happy, inspiring, positive, uplifting
+track_1189938	artist_460469	album_143227	38/1189938.mp3	128.0	mood/theme--background, inspiring, uplifting
+track_1189941	artist_460469	album_143267	41/1189941.mp3	199.6	mood/theme--background, cool, inspiring
+track_1190063	artist_460494	album_143242	63/1190063.mp3	585.0	mood/theme--deep
+track_1190138	artist_460519	album_143254	38/1190138.mp3	113.2	mood/theme--dark
+track_1190523	artist_340121	album_143296	23/1190523.mp3	223.0	mood/theme--meditative
+track_1190616	artist_456650	album_143305	16/1190616.mp3	255.3	mood/theme--dark, documentary, drama, dramatic, emotional, melancholic
+track_1190628	artist_340121	album_143296	28/1190628.mp3	325.4	mood/theme--meditative
+track_1190792	artist_438910	album_143327	92/1190792.mp3	221.9	mood/theme--dramatic
+track_1193402	artist_337741	album_143631	02/1193402.mp3	561.6	mood/theme--dream
+track_1193444	artist_461256	album_143635	44/1193444.mp3	236.8	mood/theme--epic
+track_1194583	artist_002656	album_143767	83/1194583.mp3	295.5	mood/theme--relaxing, soft
+track_1194587	artist_002656	album_143767	87/1194587.mp3	248.8	mood/theme--energetic, melodic
+track_1194594	artist_002656	album_143767	94/1194594.mp3	252.3	mood/theme--adventure, drama, energetic
+track_1195865	artist_003944	album_143935	65/1195865.mp3	90.6	mood/theme--corporate, documentary, emotional
+track_1195874	artist_003944	album_143935	74/1195874.mp3	135.4	mood/theme--groovy
+track_1195898	artist_003944	album_143935	98/1195898.mp3	110.9	mood/theme--inspiring
+track_1195938	artist_003944	album_143935	38/1195938.mp3	132.4	mood/theme--advertising, commercial, corporate
+track_1197089	artist_419438	album_144040	89/1197089.mp3	81.8	mood/theme--happy, inspiring, positive
+track_1197342	artist_419438	album_144061	42/1197342.mp3	148.8	mood/theme--energetic
+track_1197772	artist_462027	album_144102	72/1197772.mp3	450.5	mood/theme--deep
+track_1198546	artist_419438	album_144193	46/1198546.mp3	179.1	mood/theme--positive, sexy, upbeat, uplifting
+track_1198560	artist_462340	album_144181	60/1198560.mp3	201.4	mood/theme--christmas, holiday
+track_1198561	artist_462340	album_144181	61/1198561.mp3	194.0	mood/theme--christmas, holiday
+track_1199057	artist_419438	album_144242	57/1199057.mp3	212.3	mood/theme--dark, energetic, sport
+track_1199060	artist_419438	album_144242	60/1199060.mp3	155.7	mood/theme--dramatic, energetic, melancholic, sad
+track_1203121	artist_457221	album_144525	21/1203121.mp3	244.7	mood/theme--calm, commercial, dream, emotional, film, melodic, relaxing
+track_1203143	artist_431744	album_144303	43/1203143.mp3	140.2	mood/theme--love
+track_1203323	artist_360430	album_144548	23/1203323.mp3	244.9	mood/theme--mellow, party, upbeat
+track_1203657	artist_426192	album_144318	57/1203657.mp3	194.0	mood/theme--fun
+track_1203950	artist_003682	album_144637	50/1203950.mp3	221.4	mood/theme--horror, soft
+track_1204440	artist_421137	album_144673	40/1204440.mp3	310.3	mood/theme--deep
+track_1206149	artist_438910	album_144898	49/1206149.mp3	248.7	mood/theme--ambiental
+track_1208463	artist_359452	album_145132	63/1208463.mp3	250.0	mood/theme--dream
+track_1210417	artist_006417	album_145386	17/1210417.mp3	339.7	mood/theme--soundscape
+track_1210595	artist_340569	album_145399	95/1210595.mp3	344.1	mood/theme--energetic
+track_1210876	artist_352428	album_145425	76/1210876.mp3	198.4	mood/theme--ballad
+track_1210889	artist_352428	album_145425	89/1210889.mp3	283.6	mood/theme--love
+track_1214622	artist_466508	album_145737	22/1214622.mp3	174.4	mood/theme--sad
+track_1216209	artist_456650	album_145912	09/1216209.mp3	262.0	mood/theme--drama, hopeful, melodic
+track_1217157	artist_441694	album_145552	57/1217157.mp3	204.6	mood/theme--inspiring
+track_1217159	artist_441694	album_145552	59/1217159.mp3	191.3	mood/theme--inspiring
+track_1219291	artist_467612	album_146245	91/1219291.mp3	146.2	mood/theme--children, fun
+track_1219603	artist_348759	album_146278	03/1219603.mp3	218.0	mood/theme--love
+track_1219825	artist_438817	album_146305	25/1219825.mp3	330.0	mood/theme--party
+track_1221590	artist_003944	album_146525	90/1221590.mp3	143.5	mood/theme--drama, emotional
+track_1221864	artist_468830	album_146581	64/1221864.mp3	232.5	mood/theme--happy
+track_1221871	artist_468830	album_146581	71/1221871.mp3	392.8	mood/theme--slow, upbeat
+track_1221917	artist_338935	album_146557	17/1221917.mp3	307.2	mood/theme--epic
+track_1222329	artist_005240	album_146612	29/1222329.mp3	157.4	mood/theme--adventure, children, documentary
+track_1222338	artist_005240	album_146612	38/1222338.mp3	249.8	mood/theme--documentary, nature
+track_1222615	artist_469033	album_146636	15/1222615.mp3	390.9	mood/theme--dark
+track_1222779	artist_469116	album_146700	79/1222779.mp3	120.7	mood/theme--christmas, holiday
+track_1223534	artist_469116	album_146694	34/1223534.mp3	134.7	mood/theme--drama
+track_1224717	artist_466600	album_146927	17/1224717.mp3	152.0	mood/theme--commercial, documentary, motivational, sport, travel
+track_1226798	artist_437980	album_147143	98/1226798.mp3	193.4	mood/theme--relaxing
+track_1227104	artist_470512	album_147199	04/1227104.mp3	205.1	mood/theme--emotional
+track_1229178	artist_375104	album_147435	78/1229178.mp3	30.5	mood/theme--sport
+track_1230535	artist_442527	album_147567	35/1230535.mp3	412.4	mood/theme--dramatic
+track_1231363	artist_452157	album_147664	63/1231363.mp3	189.6	mood/theme--dark, sad
+track_1234242	artist_437980	album_147987	42/1234242.mp3	202.2	mood/theme--happy, positive, upbeat, uplifting
+track_1234243	artist_437980	album_147987	43/1234243.mp3	171.6	mood/theme--advertising, energetic, happy, positive, uplifting
+track_1234264	artist_437980	album_147991	64/1234264.mp3	169.7	mood/theme--energetic
+track_1234445	artist_437980	album_148005	45/1234445.mp3	155.2	mood/theme--fun, funny
+track_1234447	artist_437980	album_148005	47/1234447.mp3	98.6	mood/theme--children, happy
+track_1234448	artist_437980	album_148005	48/1234448.mp3	206.2	mood/theme--fun
+track_1234541	artist_472971	album_147952	41/1234541.mp3	296.3	mood/theme--fast, heavy
+track_1235974	artist_431744	album_148182	74/1235974.mp3	216.0	mood/theme--soundscape
+track_1236859	artist_437980	album_148285	59/1236859.mp3	199.9	mood/theme--energetic, inspiring, uplifting
+track_1239321	artist_342174	album_146528	21/1239321.mp3	254.7	mood/theme--calm, energetic
+track_1240868	artist_375104	album_148847	68/1240868.mp3	138.8	mood/theme--dramatic, energetic
+track_1241789	artist_474067	album_148821	89/1241789.mp3	179.6	mood/theme--love, melodic, romantic
+track_1244445	artist_352184	album_149099	45/1244445.mp3	268.4	mood/theme--dark, relaxing
+track_1244874	artist_438910	album_149154	74/1244874.mp3	246.5	mood/theme--space
+track_1245143	artist_438910	album_149177	43/1245143.mp3	208.1	mood/theme--meditative, relaxing
+track_1245151	artist_003944	album_149175	51/1245151.mp3	37.2	mood/theme--adventure
+track_1245158	artist_003944	album_149176	58/1245158.mp3	124.4	mood/theme--advertising, commercial, corporate, inspiring
+track_1245439	artist_001907	album_149207	39/1245439.mp3	536.0	mood/theme--epic, sad
+track_1246480	artist_438910	album_149323	80/1246480.mp3	110.0	mood/theme--meditative, sad
+track_1247308	artist_004819	album_149433	08/1247308.mp3	307.2	mood/theme--relaxing
+track_1248025	artist_437980	album_149462	25/1248025.mp3	119.0	mood/theme--dramatic, epic, film, romantic
+track_1248106	artist_353807	album_149468	06/1248106.mp3	184.4	mood/theme--party
+track_1248262	artist_359034	album_149485	62/1248262.mp3	110.2	mood/theme--upbeat
+track_1248601	artist_454470	album_149507	01/1248601.mp3	185.2	mood/theme--dark
+track_1248838	artist_432124	album_149531	38/1248838.mp3	90.7	mood/theme--epic, nature
+track_1250046	artist_448643	album_149622	46/1250046.mp3	114.3	mood/theme--energetic, fun, happy, party
+track_1250056	artist_448643	album_149622	56/1250056.mp3	145.9	mood/theme--energetic, fun, happy
+track_1250058	artist_448643	album_149623	58/1250058.mp3	35.0	mood/theme--advertising, fun, happy
+track_1250059	artist_448643	album_149623	59/1250059.mp3	36.0	mood/theme--advertising, fun, happy
+track_1250210	artist_477618	album_149637	10/1250210.mp3	54.0	mood/theme--action
+track_1253145	artist_439286	album_149941	45/1253145.mp3	218.1	mood/theme--calm, melodic, relaxing
+track_1253513	artist_435614	album_149974	13/1253513.mp3	544.4	mood/theme--dark, emotional, melancholic
+track_1253818	artist_003944	album_150008	18/1253818.mp3	32.0	mood/theme--dark, epic, film
+track_1254447	artist_471813	album_150068	47/1254447.mp3	228.0	mood/theme--slow
+track_1254732	artist_459422	album_150098	32/1254732.mp3	311.0	mood/theme--advertising, film
+track_1255622	artist_347916	album_150179	22/1255622.mp3	252.0	mood/theme--happy, melodic, sad
+track_1255973	artist_348759	album_148716	73/1255973.mp3	360.8	mood/theme--background
+track_1256021	artist_479346	album_150226	21/1256021.mp3	191.6	mood/theme--deep
+track_1257052	artist_479496	album_150328	52/1257052.mp3	230.4	mood/theme--sad
+track_1257269	artist_367947	album_150352	69/1257269.mp3	118.0	mood/theme--background, relaxing
+track_1257270	artist_367947	album_150352	70/1257270.mp3	128.0	mood/theme--background, dark, horror
+track_1257273	artist_367947	album_150352	73/1257273.mp3	93.4	mood/theme--background, relaxing
+track_1257551	artist_460992	album_150391	51/1257551.mp3	193.5	mood/theme--space
+track_1261217	artist_477576	album_150774	17/1261217.mp3	122.9	mood/theme--background, corporate, funny, positive
+track_1261458	artist_443769	album_150791	58/1261458.mp3	182.5	mood/theme--melancholic, sad
+track_1262123	artist_466600	album_150899	23/1262123.mp3	109.1	mood/theme--action, documentary, dramatic, epic, trailer
+track_1265312	artist_480019	album_151227	12/1265312.mp3	240.5	mood/theme--romantic
+track_1265428	artist_425281	album_151234	28/1265428.mp3	444.2	mood/theme--epic
+track_1265429	artist_425281	album_151234	29/1265429.mp3	394.6	mood/theme--epic
+track_1265433	artist_425281	album_151234	33/1265433.mp3	549.8	mood/theme--epic
+track_1266111	artist_460992	album_151307	11/1266111.mp3	79.6	mood/theme--calm, inspiring
+track_1266583	artist_480321	album_151355	83/1266583.mp3	268.9	mood/theme--emotional, meditative, soundscape
+track_1267286	artist_451073	album_151447	86/1267286.mp3	186.3	mood/theme--advertising, corporate, motivational
+track_1267774	artist_362501	album_151497	74/1267774.mp3	71.6	mood/theme--summer
+track_1268108	artist_471813	album_151540	08/1268108.mp3	310.3	mood/theme--slow
+track_1269455	artist_466600	album_151640	55/1269455.mp3	86.1	mood/theme--background, commercial, corporate, motivational
+track_1271918	artist_433381	album_151896	18/1271918.mp3	174.3	mood/theme--space
+track_1273387	artist_378695	album_152029	87/1273387.mp3	264.0	mood/theme--love
+track_1273974	artist_378695	album_152084	74/1273974.mp3	185.2	mood/theme--dark
+track_1274162	artist_007872	album_152101	62/1274162.mp3	50.1	mood/theme--sad
+track_1274238	artist_430396	album_152105	38/1274238.mp3	162.7	mood/theme--love
+track_1274242	artist_430396	album_152105	42/1274242.mp3	48.5	mood/theme--calm, christmas, relaxing
+track_1274541	artist_337741	album_152229	41/1274541.mp3	209.4	mood/theme--soundscape
+track_1275610	artist_472293	album_152243	10/1275610.mp3	194.7	mood/theme--melancholic, sad
+track_1276512	artist_353294	album_152348	12/1276512.mp3	85.0	mood/theme--christmas, sad
+track_1277098	artist_481486	album_152400	98/1277098.mp3	223.5	mood/theme--calm, hopeful, relaxing
+track_1277179	artist_471813	album_152422	79/1277179.mp3	481.8	mood/theme--slow
+track_1277186	artist_471813	album_152422	86/1277186.mp3	262.3	mood/theme--slow
+track_1277702	artist_481486	album_152475	02/1277702.mp3	72.5	mood/theme--dream, funny
+track_1277788	artist_481486	album_152483	88/1277788.mp3	187.7	mood/theme--fun
+track_1278253	artist_360991	album_152518	53/1278253.mp3	164.0	mood/theme--fun, happy
+track_1278254	artist_007862	album_152500	54/1278254.mp3	436.0	mood/theme--deep
+track_1278263	artist_477775	album_152525	63/1278263.mp3	173.2	mood/theme--powerful
+track_1278515	artist_482074	album_152552	15/1278515.mp3	206.1	mood/theme--epic, film
+track_1279409	artist_352380	album_152627	09/1279409.mp3	528.1	mood/theme--film
+track_1279451	artist_482241	album_152638	51/1279451.mp3	896.0	mood/theme--dramatic, epic, space
+track_1280246	artist_353511	album_152722	46/1280246.mp3	183.8	mood/theme--children
+track_1280355	artist_435992	album_152735	55/1280355.mp3	258.5	mood/theme--calm
+track_1281101	artist_437980	album_152805	01/1281101.mp3	154.3	mood/theme--dramatic, epic
+track_1283758	artist_483387	album_153107	58/1283758.mp3	290.1	mood/theme--ballad, epic, melodic
+track_1283769	artist_483387	album_153107	69/1283769.mp3	235.0	mood/theme--dark, epic
+track_1284456	artist_483163	album_153216	56/1284456.mp3	130.4	mood/theme--corporate, inspiring, motivational, positive, uplifting
+track_1284528	artist_437980	album_153223	28/1284528.mp3	227.5	mood/theme--positive, relaxing
+track_1284965	artist_477775	album_153265	65/1284965.mp3	199.3	mood/theme--energetic
+track_1285607	artist_437980	album_153314	07/1285607.mp3	60.3	mood/theme--happy, uplifting
+track_1286240	artist_342686	album_153385	40/1286240.mp3	221.5	mood/theme--groovy
+track_1286776	artist_484326	album_153409	76/1286776.mp3	480.6	mood/theme--happy, uplifting
+track_1287885	artist_473960	album_153519	85/1287885.mp3	295.0	mood/theme--film
+track_1288500	artist_484438	album_153588	00/1288500.mp3	171.3	mood/theme--uplifting
+track_1289274	artist_006916	album_153650	74/1289274.mp3	339.5	mood/theme--action, happy
+track_1289278	artist_006916	album_153650	78/1289278.mp3	286.3	mood/theme--action, energetic, happy
+track_1290949	artist_419438	album_153772	49/1290949.mp3	134.0	mood/theme--happy, inspiring, motivational, positive, uplifting
+track_1290973	artist_438910	album_153774	73/1290973.mp3	168.0	mood/theme--dream
+track_1291395	artist_464915	album_153817	95/1291395.mp3	287.2	mood/theme--love, space
+track_1291679	artist_466600	album_153836	79/1291679.mp3	35.1	mood/theme--children, christmas, commercial, happy, holiday, inspiring, motivational
+track_1292393	artist_000560	album_153921	93/1292393.mp3	254.7	mood/theme--drama, emotional
+track_1292691	artist_484797	album_153961	91/1292691.mp3	117.7	mood/theme--fun, happy, inspiring, upbeat
+track_1293701	artist_437980	album_154050	01/1293701.mp3	137.5	mood/theme--advertising, inspiring, relaxing, uplifting
+track_1293729	artist_466600	album_154053	29/1293729.mp3	38.1	mood/theme--background, commercial, corporate, happy, inspiring, motivational
+track_1294520	artist_477775	album_154154	20/1294520.mp3	291.5	mood/theme--powerful
+track_1294600	artist_437980	album_154104	00/1294600.mp3	132.0	mood/theme--energetic
+track_1294778	artist_007063	album_154152	78/1294778.mp3	166.8	mood/theme--groovy, melodic
+track_1295409	artist_437980	album_154104	09/1295409.mp3	144.6	mood/theme--dramatic
+track_1297935	artist_485440	album_154506	35/1297935.mp3	272.2	mood/theme--deep
+track_1298308	artist_437980	album_154534	08/1298308.mp3	173.5	mood/theme--advertising, happy, positive
+track_1298609	artist_483387	album_154565	09/1298609.mp3	90.0	mood/theme--christmas, corporate, inspiring, motivational, powerful
+track_1298832	artist_004116	album_154878	32/1298832.mp3	343.3	mood/theme--calm
+track_1302088	artist_437980	album_154757	88/1302088.mp3	185.2	mood/theme--positive, relaxing, uplifting
+track_1302669	artist_438603	album_154976	69/1302669.mp3	215.2	mood/theme--love, positive
+track_1302677	artist_438603	album_154976	77/1302677.mp3	241.9	mood/theme--love
+track_1303022	artist_471813	album_155016	22/1303022.mp3	262.3	mood/theme--dark, slow
+track_1303066	artist_485924	album_155018	66/1303066.mp3	358.8	mood/theme--love
+track_1305136	artist_477775	album_155278	36/1305136.mp3	295.3	mood/theme--fun
+track_1307648	artist_341393	album_155416	48/1307648.mp3	194.3	mood/theme--emotional
+track_1307740	artist_456650	album_155422	40/1307740.mp3	194.1	mood/theme--advertising, commercial, fun, happy, travel
+track_1308620	artist_486490	album_155502	20/1308620.mp3	403.3	mood/theme--deep
+track_1310116	artist_461418	album_155633	16/1310116.mp3	162.5	mood/theme--happy, powerful, sad, space
+track_1310236	artist_486695	album_155640	36/1310236.mp3	299.1	mood/theme--dark, melancholic
+track_1310345	artist_341323	album_155654	45/1310345.mp3	228.0	mood/theme--love
+track_1310500	artist_341642	album_155691	00/1310500.mp3	172.4	mood/theme--space
+track_1311229	artist_459422	album_155736	29/1311229.mp3	231.7	mood/theme--advertising, documentary, meditative, melancholic
+track_1311244	artist_483960	album_155742	44/1311244.mp3	203.0	mood/theme--energetic, movie, sport
+track_1311482	artist_437980	album_155766	82/1311482.mp3	108.6	mood/theme--energetic, epic, trailer
+track_1312018	artist_466600	album_155805	18/1312018.mp3	72.0	mood/theme--emotional, happy, inspiring, positive, romantic
+track_1312108	artist_486831	album_155815	08/1312108.mp3	153.5	mood/theme--dream, space
+track_1313000	artist_423996	album_156545	00/1313000.mp3	661.9	mood/theme--sad
+track_1314122	artist_487121	album_156010	22/1314122.mp3	406.0	mood/theme--deep, melancholic
+track_1315512	artist_486995	album_156119	12/1315512.mp3	415.0	mood/theme--groovy
+track_1316284	artist_487343	album_156208	84/1316284.mp3	196.2	mood/theme--calm, dark
+track_1317904	artist_001166	album_156335	04/1317904.mp3	178.8	mood/theme--fun, sport
+track_1318028	artist_002189	album_156348	28/1318028.mp3	570.3	mood/theme--dream
+track_1319236	artist_457221	album_156432	36/1319236.mp3	264.5	mood/theme--calm
+track_1319683	artist_471813	album_156481	83/1319683.mp3	241.8	mood/theme--dark, slow
+track_1319688	artist_471813	album_156481	88/1319688.mp3	253.8	mood/theme--dark, slow
+track_1319997	artist_359034	album_156519	97/1319997.mp3	115.6	mood/theme--dark, upbeat
+track_1320018	artist_359034	album_156519	18/1320018.mp3	217.8	mood/theme--dark, upbeat
+track_1320030	artist_359034	album_156519	30/1320030.mp3	124.3	mood/theme--dark, upbeat
+track_1320575	artist_432338	album_156576	75/1320575.mp3	218.0	mood/theme--dark
+track_1321119	artist_347673	album_156627	19/1321119.mp3	126.0	mood/theme--melancholic
+track_1321244	artist_466436	album_156613	44/1321244.mp3	230.5	mood/theme--ambiental
+track_1321603	artist_484482	album_156691	03/1321603.mp3	128.7	mood/theme--fun
+track_1321710	artist_487628	album_156668	10/1321710.mp3	291.9	mood/theme--happy, summer
+track_1321716	artist_487628	album_156668	16/1321716.mp3	405.1	mood/theme--happy, summer
+track_1323258	artist_440794	album_156824	58/1323258.mp3	249.0	mood/theme--melancholic, melodic
+track_1324675	artist_442477	album_156887	75/1324675.mp3	249.3	mood/theme--melancholic
+track_1327696	artist_004545	album_156967	96/1327696.mp3	480.1	mood/theme--relaxing, soundscape
+track_1328382	artist_487916	album_157227	82/1328382.mp3	91.5	mood/theme--epic
+track_1328697	artist_365858	album_157258	97/1328697.mp3	205.8	mood/theme--space
+track_1329723	artist_422939	album_157349	23/1329723.mp3	391.7	mood/theme--happy
+track_1329931	artist_461418	album_157372	31/1329931.mp3	141.3	mood/theme--happy, inspiring, motivational, uplifting
+track_1329945	artist_461418	album_157372	45/1329945.mp3	67.0	mood/theme--fun, happy
+track_1331801	artist_348064	album_157429	01/1331801.mp3	220.0	mood/theme--documentary
+track_1332945	artist_441157	album_157641	45/1332945.mp3	372.0	mood/theme--energetic, fast
+track_1333038	artist_351588	album_157651	38/1333038.mp3	303.0	mood/theme--calm, emotional, film, relaxing
+track_1333600	artist_431744	album_157709	00/1333600.mp3	215.8	mood/theme--romantic, soundscape
+track_1333717	artist_002189	album_157706	17/1333717.mp3	197.4	mood/theme--dream
+track_1334554	artist_487628	album_157794	54/1334554.mp3	265.0	mood/theme--happy, summer
+track_1334738	artist_372323	album_157816	38/1334738.mp3	174.0	mood/theme--nature
+track_1334778	artist_466600	album_157821	78/1334778.mp3	32.0	mood/theme--emotional, happy, inspiring, positive, romantic
+track_1335120	artist_488990	album_157841	20/1335120.mp3	199.7	mood/theme--party
+track_1335122	artist_488990	album_157841	22/1335122.mp3	188.6	mood/theme--action
+track_1335153	artist_488990	album_157844	53/1335153.mp3	216.0	mood/theme--fast, movie
+track_1335393	artist_374892	album_157877	93/1335393.mp3	168.0	mood/theme--sad
+track_1335480	artist_488943	album_157872	80/1335480.mp3	267.9	mood/theme--space
+track_1336212	artist_000560	album_157914	12/1336212.mp3	317.4	mood/theme--drama, emotional
+track_1337505	artist_338395	album_158025	05/1337505.mp3	240.9	mood/theme--hopeful, love
+track_1338306	artist_435725	album_158118	06/1338306.mp3	103.6	mood/theme--dark, dramatic, film
+track_1338427	artist_372323	album_158134	27/1338427.mp3	212.4	mood/theme--horror
+track_1339250	artist_365072	album_158206	50/1339250.mp3	136.6	mood/theme--dark
+track_1340340	artist_481897	album_158322	40/1340340.mp3	140.3	mood/theme--romantic
+track_1340343	artist_481897	album_158322	43/1340343.mp3	109.1	mood/theme--fun
+track_1341573	artist_437980	album_158416	73/1341573.mp3	60.2	mood/theme--advertising, corporate, energetic
+track_1343010	artist_464757	album_158567	10/1343010.mp3	449.1	mood/theme--party, space
+track_1343380	artist_489019	album_158593	80/1343380.mp3	224.6	mood/theme--dark
+track_1348176	artist_423996	album_159071	76/1348176.mp3	1067.3	mood/theme--sad
+track_1348314	artist_490314	album_159083	14/1348314.mp3	60.0	mood/theme--horror
+track_1348475	artist_490066	album_159111	75/1348475.mp3	354.8	mood/theme--deep
+track_1348656	artist_435992	album_159130	56/1348656.mp3	229.0	mood/theme--sexy
+track_1348725	artist_490314	album_159136	25/1348725.mp3	126.0	mood/theme--children, christmas, happy
+track_1349109	artist_001336	album_159162	09/1349109.mp3	59.1	mood/theme--dark
+track_1349531	artist_490314	album_159190	31/1349531.mp3	46.8	mood/theme--advertising, corporate, motivational
+track_1349675	artist_490560	album_159219	75/1349675.mp3	273.1	mood/theme--emotional, love
+track_1349678	artist_490560	album_159219	78/1349678.mp3	149.7	mood/theme--emotional, love
+track_1349960	artist_490314	album_159246	60/1349960.mp3	74.2	mood/theme--advertising, corporate, motivational, uplifting
+track_1350047	artist_437980	album_159264	47/1350047.mp3	60.3	mood/theme--corporate
+track_1350141	artist_490314	album_159281	41/1350141.mp3	66.8	mood/theme--advertising, children
+track_1350851	artist_337328	album_159338	51/1350851.mp3	153.9	mood/theme--dream
+track_1351058	artist_490314	album_159362	58/1351058.mp3	74.4	mood/theme--children
+track_1351478	artist_490314	album_159382	78/1351478.mp3	35.4	mood/theme--holiday
+track_1352138	artist_490314	album_159424	38/1352138.mp3	136.1	mood/theme--children
+track_1352362	artist_490314	album_159452	62/1352362.mp3	61.5	mood/theme--christmas, positive
+track_1352506	artist_489561	album_159465	06/1352506.mp3	188.8	mood/theme--motivational, sport
+track_1352520	artist_489561	album_159465	20/1352520.mp3	211.4	mood/theme--sport
+track_1352529	artist_489561	album_159465	29/1352529.mp3	243.5	mood/theme--game, sport
+track_1352577	artist_490314	album_159470	77/1352577.mp3	41.0	mood/theme--children, fun
+track_1353221	artist_490851	album_159538	21/1353221.mp3	146.1	mood/theme--deep
+track_1353224	artist_490851	album_159538	24/1353224.mp3	221.0	mood/theme--deep
+track_1353259	artist_490858	album_159541	59/1353259.mp3	220.0	mood/theme--deep, summer
+track_1353268	artist_490858	album_159542	68/1353268.mp3	190.0	mood/theme--deep, summer
+track_1353274	artist_490858	album_159542	74/1353274.mp3	161.0	mood/theme--deep, summer
+track_1353278	artist_490858	album_159542	78/1353278.mp3	139.0	mood/theme--deep, summer
+track_1353319	artist_490859	album_159546	19/1353319.mp3	283.8	mood/theme--deep, happy, summer
+track_1353321	artist_490859	album_159546	21/1353321.mp3	204.1	mood/theme--deep, summer
+track_1353333	artist_490859	album_159546	33/1353333.mp3	331.7	mood/theme--deep, summer
+track_1353343	artist_490858	album_159547	43/1353343.mp3	194.4	mood/theme--summer
+track_1353353	artist_490858	album_159547	53/1353353.mp3	199.0	mood/theme--summer
+track_1353567	artist_490314	album_159574	67/1353567.mp3	50.7	mood/theme--advertising, commercial, motivational, uplifting
+track_1353822	artist_439286	album_159616	22/1353822.mp3	255.2	mood/theme--energetic, heavy
+track_1354100	artist_485239	album_159632	00/1354100.mp3	163.6	mood/theme--ambiental
+track_1354105	artist_485239	album_159632	05/1354105.mp3	233.0	mood/theme--ambiental
+track_1354141	artist_490314	album_159638	41/1354141.mp3	77.0	mood/theme--energetic
+track_1354581	artist_490314	album_159688	81/1354581.mp3	106.0	mood/theme--funny
+track_1354698	artist_462377	album_159705	98/1354698.mp3	166.0	mood/theme--corporate, inspiring, motivational, soft
+track_1355264	artist_488990	album_159768	64/1355264.mp3	253.1	mood/theme--dark, sad
+track_1355276	artist_488990	album_159768	76/1355276.mp3	186.1	mood/theme--dark, sad
+track_1356133	artist_465078	album_159840	33/1356133.mp3	171.2	mood/theme--action, sport
+track_1356317	artist_362323	album_159863	17/1356317.mp3	203.2	mood/theme--dream
+track_1357131	artist_467034	album_159941	31/1357131.mp3	188.9	mood/theme--dramatic, melancholic
+track_1357400	artist_003944	album_159969	00/1357400.mp3	136.0	mood/theme--emotional, romantic
+track_1357557	artist_491348	album_159989	57/1357557.mp3	231.7	mood/theme--uplifting
+track_1358417	artist_451073	album_160080	17/1358417.mp3	266.3	mood/theme--advertising, corporate
+track_1359156	artist_465078	album_160161	56/1359156.mp3	206.6	mood/theme--romantic
+track_1359335	artist_477775	album_160182	35/1359335.mp3	197.4	mood/theme--upbeat
+track_1359955	artist_348759	album_158707	55/1359955.mp3	251.0	mood/theme--background
+track_1361573	artist_480599	album_160347	73/1361573.mp3	117.0	mood/theme--upbeat
+track_1362214	artist_465078	album_160421	14/1362214.mp3	151.9	mood/theme--energetic, sport
+track_1362289	artist_375935	album_160429	89/1362289.mp3	79.4	mood/theme--upbeat
+track_1363499	artist_339355	album_160540	99/1363499.mp3	230.9	mood/theme--soundscape
+track_1363602	artist_457786	album_160551	02/1363602.mp3	172.5	mood/theme--motivational
+track_1364457	artist_474866	album_160633	57/1364457.mp3	155.9	mood/theme--corporate, motivational
+track_1364762	artist_462377	album_160654	62/1364762.mp3	91.2	mood/theme--children, happy
+track_1365052	artist_492122	album_160686	52/1365052.mp3	169.0	mood/theme--dark
+track_1365123	artist_461766	album_160688	23/1365123.mp3	305.7	mood/theme--energetic, melodic, powerful
+track_1365200	artist_488943	album_160706	00/1365200.mp3	268.5	mood/theme--space
+track_1365932	artist_435725	album_160744	32/1365932.mp3	64.8	mood/theme--upbeat
+track_1365995	artist_003027	album_160748	95/1365995.mp3	92.2	mood/theme--hopeful
+track_1365999	artist_003027	album_160748	99/1365999.mp3	64.1	mood/theme--sad
+track_1366173	artist_492259	album_160757	73/1366173.mp3	256.5	mood/theme--melodic
+track_1366583	artist_492310	album_160809	83/1366583.mp3	197.1	mood/theme--party
+track_1366693	artist_492259	album_160823	93/1366693.mp3	280.0	mood/theme--melodic, soft
+track_1367767	artist_455057	album_160912	67/1367767.mp3	117.5	mood/theme--inspiring, mellow, nature, uplifting
+track_1368284	artist_492481	album_160975	84/1368284.mp3	204.6	mood/theme--summer
+track_1368285	artist_492481	album_160975	85/1368285.mp3	409.1	mood/theme--summer
+track_1368980	artist_489561	album_161059	80/1368980.mp3	155.7	mood/theme--sad
+track_1369350	artist_456650	album_161084	50/1369350.mp3	199.4	mood/theme--melancholic
+track_1370378	artist_490028	album_161301	78/1370378.mp3	69.1	mood/theme--inspiring, motivational, relaxing, uplifting
+track_1370943	artist_433608	album_161270	43/1370943.mp3	210.5	mood/theme--film
+track_1371041	artist_337741	album_161283	41/1371041.mp3	219.7	mood/theme--melodic
+track_1371549	artist_477775	album_161348	49/1371549.mp3	207.3	mood/theme--dramatic, powerful
+track_1372030	artist_492916	album_161396	30/1372030.mp3	205.8	mood/theme--relaxing
+track_1372208	artist_441157	album_161403	08/1372208.mp3	420.0	mood/theme--relaxing
+track_1372265	artist_428449	album_160808	65/1372265.mp3	231.1	mood/theme--sad, slow
+track_1373252	artist_451073	album_161422	52/1373252.mp3	123.4	mood/theme--advertising, happy, motivational, positive
+track_1374330	artist_357291	album_161596	30/1374330.mp3	119.6	mood/theme--energetic
+track_1375902	artist_490363	album_161752	02/1375902.mp3	264.0	mood/theme--meditative
+track_1375904	artist_490363	album_161752	04/1375904.mp3	231.5	mood/theme--documentary, nature
+track_1375909	artist_490363	album_161752	09/1375909.mp3	136.2	mood/theme--documentary, meditative, nature
+track_1376241	artist_492893	album_161776	41/1376241.mp3	259.5	mood/theme--inspiring
+track_1376467	artist_480890	album_161794	67/1376467.mp3	231.6	mood/theme--emotional
+track_1377314	artist_493162	album_161856	14/1377314.mp3	244.2	mood/theme--dark, horror
+track_1377315	artist_493162	album_161856	15/1377315.mp3	244.1	mood/theme--dark, horror
+track_1380119	artist_337741	album_162121	19/1380119.mp3	180.0	mood/theme--inspiring, melodic, soundscape
+track_1380713	artist_004116	album_162183	13/1380713.mp3	198.5	mood/theme--calm
+track_1380834	artist_428489	album_162181	34/1380834.mp3	72.0	mood/theme--game
+track_1381259	artist_375104	album_162223	59/1381259.mp3	137.9	mood/theme--corporate, inspiring
+track_1381261	artist_375104	album_162223	61/1381261.mp3	64.0	mood/theme--calm, corporate
+track_1383735	artist_493908	album_162372	35/1383735.mp3	219.5	mood/theme--sad
+track_1383787	artist_483387	album_162393	87/1383787.mp3	50.1	mood/theme--corporate, motivational, positive
+track_1383957	artist_430126	album_162398	57/1383957.mp3	99.8	mood/theme--drama
+track_1384308	artist_466600	album_162426	08/1384308.mp3	31.0	mood/theme--background, inspiring, nature, romantic
+track_1384402	artist_493872	album_162438	02/1384402.mp3	89.4	mood/theme--corporate
+track_1384412	artist_493872	album_162438	12/1384412.mp3	69.0	mood/theme--corporate
+track_1384753	artist_482706	album_162473	53/1384753.mp3	394.0	mood/theme--commercial, happy
+track_1385561	artist_430396	album_162540	61/1385561.mp3	170.8	mood/theme--funny
+track_1387049	artist_492062	album_162700	49/1387049.mp3	276.0	mood/theme--dark, soundscape
+track_1387491	artist_369475	album_162743	91/1387491.mp3	264.0	mood/theme--positive
+track_1388003	artist_341393	album_162808	03/1388003.mp3	240.1	mood/theme--emotional
+track_1388860	artist_007805	album_162888	60/1388860.mp3	240.2	mood/theme--advertising, commercial, sad
+track_1388865	artist_007805	album_162888	65/1388865.mp3	160.6	mood/theme--advertising, movie, soft
+track_1389167	artist_451073	album_162912	67/1389167.mp3	138.0	mood/theme--advertising
+track_1389459	artist_361044	album_162932	59/1389459.mp3	113.4	mood/theme--film
+track_1390336	artist_347867	album_163036	36/1390336.mp3	191.8	mood/theme--love, melodic
+track_1390504	artist_438910	album_163049	04/1390504.mp3	268.1	mood/theme--space
+track_1390695	artist_438910	album_163058	95/1390695.mp3	189.4	mood/theme--soundscape, space
+track_1391226	artist_490028	album_163101	26/1391226.mp3	91.9	mood/theme--christmas, happy, holiday
+track_1391228	artist_490028	album_163101	28/1391228.mp3	65.7	mood/theme--christmas, happy, holiday, uplifting
+track_1391263	artist_355756	album_163107	63/1391263.mp3	300.1	mood/theme--meditative, space
+track_1392123	artist_487143	album_163182	23/1392123.mp3	370.3	mood/theme--melodic, space
+track_1392193	artist_433117	album_163190	93/1392193.mp3	128.0	mood/theme--film
+track_1392703	artist_355756	album_163275	03/1392703.mp3	210.1	mood/theme--relaxing, space
+track_1392853	artist_355756	album_163275	53/1392853.mp3	300.1	mood/theme--relaxing, space
+track_1392970	artist_465078	album_163262	70/1392970.mp3	82.1	mood/theme--advertising, positive
+track_1392984	artist_355756	album_163275	84/1392984.mp3	240.1	mood/theme--relaxing, space
+track_1393142	artist_456894	album_163277	42/1393142.mp3	98.7	mood/theme--christmas
+track_1393144	artist_456894	album_163277	44/1393144.mp3	109.4	mood/theme--christmas, happy, upbeat, uplifting
+track_1393186	artist_483387	album_163282	86/1393186.mp3	110.4	mood/theme--christmas, inspiring, motivational, upbeat
+track_1393213	artist_483387	album_163282	13/1393213.mp3	187.7	mood/theme--christmas, epic, inspiring, positive
+track_1393251	artist_483387	album_163282	51/1393251.mp3	162.5	mood/theme--christmas, energetic, positive, upbeat
+track_1393534	artist_375104	album_163329	34/1393534.mp3	60.0	mood/theme--christmas, happy
+track_1393536	artist_375104	album_163329	36/1393536.mp3	37.4	mood/theme--background, christmas, holiday
+track_1393537	artist_375104	album_163329	37/1393537.mp3	123.1	mood/theme--background, christmas, game
+track_1394316	artist_369180	album_163359	16/1394316.mp3	404.4	mood/theme--dark, emotional
+track_1394421	artist_442127	album_163367	21/1394421.mp3	297.5	mood/theme--heavy
+track_1394780	artist_491763	album_163391	80/1394780.mp3	162.2	mood/theme--dream
+track_1395177	artist_495085	album_163421	77/1395177.mp3	442.8	mood/theme--soundscape
+track_1395613	artist_337741	album_163465	13/1395613.mp3	293.4	mood/theme--inspiring
+track_1396473	artist_480605	album_163563	73/1396473.mp3	288.0	mood/theme--deep, space
+track_1396502	artist_361044	album_163566	02/1396502.mp3	141.9	mood/theme--drama, emotional, film, sad
+track_1396519	artist_352428	album_163568	19/1396519.mp3	135.3	mood/theme--christmas, holiday
+track_1396603	artist_495215	album_163550	03/1396603.mp3	213.8	mood/theme--upbeat
+track_1396694	artist_462377	album_163584	94/1396694.mp3	84.9	mood/theme--motivational, soft, uplifting
+track_1396976	artist_495215	album_163550	76/1396976.mp3	148.5	mood/theme--upbeat
+track_1398499	artist_439371	album_163742	99/1398499.mp3	81.4	mood/theme--children, christmas
+track_1398741	artist_361044	album_163754	41/1398741.mp3	91.1	mood/theme--christmas, emotional, soft
+track_1399021	artist_495449	album_163770	21/1399021.mp3	87.5	mood/theme--film
+track_1399693	artist_477775	album_163882	93/1399693.mp3	154.5	mood/theme--melodic
+track_1400507	artist_001336	album_163917	07/1400507.mp3	111.3	mood/theme--cool
+track_1400797	artist_423996	album_164046	97/1400797.mp3	218.2	mood/theme--sad
+track_1402459	artist_341912	album_164040	59/1402459.mp3	211.6	mood/theme--mellow, melodic
+track_1402650	artist_432273	album_164083	50/1402650.mp3	219.2	mood/theme--funny, happy, upbeat
+track_1402651	artist_432273	album_164083	51/1402651.mp3	125.6	mood/theme--christmas, dream
+track_1403004	artist_355756	album_164127	04/1403004.mp3	270.0	mood/theme--relaxing
+track_1403452	artist_487706	album_164152	52/1403452.mp3	136.5	mood/theme--adventure, epic, motivational
+track_1403811	artist_491366	album_164174	11/1403811.mp3	184.0	mood/theme--sexy
+track_1403901	artist_491366	album_164186	01/1403901.mp3	231.0	mood/theme--slow
+track_1405078	artist_495804	album_164281	78/1405078.mp3	90.3	mood/theme--motivational
+track_1405177	artist_484759	album_164302	77/1405177.mp3	258.4	mood/theme--advertising, children, dream, film
+track_1406370	artist_337741	album_164419	70/1406370.mp3	200.2	mood/theme--melodic
+track_1406573	artist_496074	album_164445	73/1406573.mp3	135.7	mood/theme--epic, motivational
+track_1407653	artist_469116	album_164543	53/1407653.mp3	32.0	mood/theme--fast
+track_1413009	artist_496290	album_164960	09/1413009.mp3	47.6	mood/theme--film
+track_1414220	artist_496408	album_165114	20/1414220.mp3	208.0	mood/theme--dark
+track_1414691	artist_496518	album_165169	91/1414691.mp3	273.5	mood/theme--dark
+track_1415106	artist_495779	album_165217	06/1415106.mp3	144.0	mood/theme--advertising, dramatic, energetic, inspiring, motivational
+track_1415548	artist_495804	album_165256	48/1415548.mp3	41.5	mood/theme--advertising, calm
+track_1415943	artist_348602	album_165293	43/1415943.mp3	232.3	mood/theme--dream
+track_1416136	artist_486550	album_165307	36/1416136.mp3	30.9	mood/theme--advertising, background, documentary, soundscape
+track_1416334	artist_463893	album_165324	34/1416334.mp3	39.3	mood/theme--corporate, happy, motivational
+track_1419768	artist_467873	album_165630	68/1419768.mp3	201.0	mood/theme--dark
+track_1419782	artist_438910	album_165634	82/1419782.mp3	233.4	mood/theme--melancholic, slow
+track_1419791	artist_497141	album_165639	91/1419791.mp3	152.6	mood/theme--adventure, epic
+track_1420416	artist_497198	album_165677	16/1420416.mp3	155.4	mood/theme--deep, funny, happy
+track_1420445	artist_497198	album_165677	45/1420445.mp3	173.0	mood/theme--happy, summer
+track_1420470	artist_490851	album_165678	70/1420470.mp3	185.1	mood/theme--deep
+track_1420499	artist_497198	album_165681	99/1420499.mp3	186.6	mood/theme--deep, happy, summer
+track_1420506	artist_497198	album_165681	06/1420506.mp3	142.4	mood/theme--happy, summer
+track_1420520	artist_497200	album_165682	20/1420520.mp3	188.6	mood/theme--deep, summer
+track_1420529	artist_497202	album_165684	29/1420529.mp3	219.4	mood/theme--deep, summer
+track_1420539	artist_497202	album_165684	39/1420539.mp3	166.9	mood/theme--deep, summer
+track_1420555	artist_497202	album_165686	55/1420555.mp3	211.0	mood/theme--deep, summer
+track_1420556	artist_497202	album_165686	56/1420556.mp3	184.0	mood/theme--deep, emotional, summer
+track_1420560	artist_497202	album_165686	60/1420560.mp3	192.0	mood/theme--deep, summer
+track_1420604	artist_497203	album_165689	04/1420604.mp3	194.0	mood/theme--deep
+track_1420623	artist_497203	album_165691	23/1420623.mp3	224.7	mood/theme--deep
+track_1420653	artist_480599	album_165703	53/1420653.mp3	94.0	mood/theme--documentary, emotional
+track_1420688	artist_490858	album_165693	88/1420688.mp3	222.3	mood/theme--deep, summer

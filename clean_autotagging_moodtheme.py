@@ -7,7 +7,7 @@ def get_moods():
     data = []
     moods = []
 
-    with open('autotagging_moodtheme.tsv', newline='', encoding='utf-8') as tsvfile:
+    with open('mtg_jamendo/data/autotagging_moodtheme.tsv', newline='', encoding='utf-8') as tsvfile:
         # specify tab as the delimiter
         reader = csv.reader(tsvfile, delimiter='\t')
 
@@ -36,3 +36,6 @@ def get_moods():
             writer.writerows(data)
 
         return moods
+
+moods = get_moods()
+print(moods)
